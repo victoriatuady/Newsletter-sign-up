@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile view](design/newsletter-desktop-sign-up.png)
-![desktop](design/newsletter-mobile-siign-up.png)
+![desktop view](design/newsletter-desktop-sign-up.png)
+![mobile view](design/newsletter-mobile-siign-up.png)
 
 ### Links
 
